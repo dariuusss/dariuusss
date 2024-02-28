@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ignatescu Darius</h1>
 <h3 align="center">A passionate computer science student at Faculty of Automatic Control and Computer Science, UNSTPB,Romania</h3>
 
-- 🌱 I’m currently learning **Racket,Haskell,Porolog,C++**
+- 🌱 I’m currently learning **Racket,Haskell,Prolog,C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
